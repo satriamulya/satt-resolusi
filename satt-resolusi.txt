@@ -1,9 +1,9 @@
 SATT RESOLUSI 2021
 - Terhindar dari virus CV19 
-- bisa menyelesaikan algoritma dijkstra untuk rute terdekat 
-- lulus di semester 8 ini 
-- belajar bahasa inggris sampai mahir
-- belajar mechine learning sampai mahir
-- bisa bekerja atau minimal magang atau mengikuti pelatihan dari startup seperti gojek,tokopedia,shopee,google,facebook
-- bisa magang di pos indonesia
-- bisa bermain catur
+- Bisa menyelesaikan algoritma dijkstra untuk rute terdekat 
+- Lulus di semester 8 ini 
+- Belajar bahasa inggris sampai mahir
+- Belajar mechine learning sampai mahir
+- Bisa bekerja atau minimal magang atau mengikuti pelatihan dari startup seperti gojek,tokopedia,shopee,google,facebook
+- Bisa magang di pos indonesia
+- Bisa berbahasa jepang
