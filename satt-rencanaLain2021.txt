@@ -5,6 +5,5 @@ RENCANA LAIN 2021
 -bisa belar ke dunia deep learning
 -bisa berbahasa korea 
   * belajar dari film korea
--bisa berbahasa thailand
--bisa berbahasa rusia
 -bisa hidup di singapura atau amerika serikat atau inggris
+  * dengan bekerja sebagai machine learning engineer
